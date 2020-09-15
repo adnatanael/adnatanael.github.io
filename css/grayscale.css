@@ -8,7 +8,9 @@
   min-height: 56px;
   background-color: #fff;
 }
-
+.navbar-shrink { 
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,.12),inset 0 -1px 0 0 #dadce0;
+}
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
